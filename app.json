@@ -7,7 +7,7 @@
     "downloader"
   ],
 
-  "repository": "https://github.com/TroJanzHEX/Zee5-Downloader",
+  "repository": "https://github.com/Marilingappa/Zee5-Downloader",
   
   "env": {
     "WEBHOOK": {
@@ -17,7 +17,7 @@
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
       "value": ""
-    },
+    },https://github.com/TroJanzHEX/Zee5-Downloader
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
       "value": ""
